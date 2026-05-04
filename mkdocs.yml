@@ -88,6 +88,7 @@ nav:
   - 홈: index.md
   - 운영체제:
       - os/index.md
+      - 컴퓨터가 음수를 취하는 방법: os/twos-complement.md
   - 네트워크:
       - network/index.md
   - 데이터베이스:
